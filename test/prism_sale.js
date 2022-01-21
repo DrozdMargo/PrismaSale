@@ -37,9 +37,6 @@ contract("PrismSale", function (accounts) {
         startBalance.add(commission).toString(),
         endBalance.toString()
     )
-
-    console.log(startBalance)
-    console.log(endBalance)
   })
 
 
